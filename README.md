@@ -1,3 +1,37 @@
+# Dashboard Project
+
+This project is a dashboard built with Next.js and Tailwind CSS. It provides a user-friendly interface for displaying important data and metrics.
+
+Getting Started
+To get started with this project, follow these steps:
+
+Clone the repository onto your local machine.
+Navigate to the root directory of the project.
+Run npm install to install the required dependencies.
+Run npm run dev to start the development server.
+Dependencies
+This project uses the following dependencies:
+
+Next.js - A framework for building React applications.
+Tailwind CSS - A utility-first CSS framework.
+React - A JavaScript library for building user interfaces.
+
+# Folder Structure
+
+The project is structured as follows:
+dashboard/
+|- components/
+|- pages/
+|- public/
+|- styles/
+
+The components folder contains reusable React components.
+The pages folder contains the main pages of the application.
+The public folder contains static files such as images and fonts.
+The styles folder contains global styles and Tailwind CSS configuration.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
